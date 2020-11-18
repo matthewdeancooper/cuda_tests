@@ -1,4 +1,8 @@
 # cuda_tests
+I have found it valuable to have a minimum working computer vision example for both TensorFlow
+and PyTorch - allowing me to easily test CUDA and cuDNN support on new installs.
+
+
 Activate a python virtual environment (I use pyenv and venv).
 ```
 pyenv local 3.7.5
