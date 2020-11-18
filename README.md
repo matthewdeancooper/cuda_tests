@@ -5,7 +5,7 @@ pyenv local 3.7.5
 python3.7 -m venv env
 source env/bin/activate
 ```
-Install requirements.txt via pip
+Install requirements via pip
 ```
 pip install --upgrade pip
 pip install -r requirements.txt
