@@ -1,6 +1,5 @@
 # cuda_tests
-I have found it valuable to have a minimum working CNN for both TensorFlow
-and PyTorch - allowing me to easily test CUDA and cuDNN support on new installs.
+I have found it valuable to have a minimum working CNN for both TensorFlow and PyTorch - allowing me to easily verify GPU support provided by NVIDIA's CUDA and cuDNN libraries.
 
 
 Activate a python virtual environment (I use pyenv and venv).
