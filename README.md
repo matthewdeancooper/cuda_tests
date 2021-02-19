@@ -1,5 +1,4 @@
 # fyn!
-As *indicated* by our naughtiest BDFL... 
 ## (or - CUDA tests)
 I have found it valuable to have a minimum working CNN for both TensorFlow and PyTorch - allowing me to easily verify GPU support provided by NVIDIA's CUDA and cuDNN libraries.
 
