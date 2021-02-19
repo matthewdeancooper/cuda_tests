@@ -1,10 +1,9 @@
-# FYN - CUDA tests
-As *indicated* by our naughtiest BDFL... 
-
+# fyn!
+## (or - CUDA tests)
 I have found it valuable to have a minimum working CNN for both TensorFlow and PyTorch - allowing me to easily verify GPU support provided by NVIDIA's CUDA and cuDNN libraries.
 
 
-Activate a python virtual environment (I use pyenv and venv).
+Activate a python virtual environment (I use pyenv with pythons built-in venv).
 ```
 pyenv local 3.7.5
 python3.7 -m venv env
